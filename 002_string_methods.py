@@ -1,0 +1,10 @@
+name = "Bro Code"
+print(len(name))
+print(name.find("B"))
+print(name.capitalize())
+print(name.upper())
+print(name.lower())
+print(name.isdigit())
+print(name.count("o"))
+print(name.replace("o", "A"))
+print(name*5)
