@@ -1,0 +1,11 @@
+packaging==23.2
+pathspec==0.12.1
+pefile==2023.2.7
+platformdirs==4.2.0
+pyinstaller==6.5.0
+pyinstaller-hooks-contrib==2024.3
+pylint==3.1.0
+pywin32-ctypes==0.2.2
+tomli==2.0.1
+tomlkit==0.12.4
+typing_extensions==4.10.0
